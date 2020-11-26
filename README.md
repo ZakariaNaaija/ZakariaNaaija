@@ -13,8 +13,8 @@
 <br />
 <br />
 
-Hi, I'm **Zakaria Naaija**, a **Software Engineer** 🚀 from Tunisia, skilled in **Android Native** and **Web Development technologies** such as `PHP` , `NodeJS` and `Javascript frameworks` such as `Angular` and many other skills.
-I newly published my **online portfolio** and you can check it here: https://naaijazakaria.com.
+Hi, I'm **Zakaria Naaija**, a **Software Engineer** 🚀 from Tunisia, skilled in **Android Native** and **Web Development technologies** such as `PHP` , `NodeJS` and `Javascript frameworks` such as `Angular` and many other skills.<br />
+I newly published my **online portfolio** and you can check it here: https://naaijazakaria.com.<br />
 I am easy to communicate with, professional 🏆 and willing to learn ✏️ and adopt the right tools 💡 and concepts. 
 
 
