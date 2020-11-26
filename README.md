@@ -13,14 +13,14 @@
 <br />
 <br />
 
-Hi, I'm **Zakaria Naaija**, a **Software Engineer** 🚀 from Tunisia, skilled in *Android Native* and **Web Development technologies** such as `PHP` , `NodeJS` and `Javascript frameworks` such as `Angular` and many other skills.
-I newly published my **online portfolio** and you can check it here: **naaijazakaria.com**.
+Hi, I'm **Zakaria Naaija**, a **Software Engineer** 🚀 from Tunisia, skilled in **Android Native** and **Web Development technologies** such as `PHP` , `NodeJS` and `Javascript frameworks` such as `Angular` and many other skills.
+I newly published my **online portfolio** and you can check it here: https://naaijazakaria.com.
 I am easy to communicate with, professional 🏆 and willing to learn ✏️ and adopt the right tools 💡 and concepts. 
 
 
 - 🔭 I’m currently working on boosting my `experience` and `knoweldge`
 - 🌱 I’m currently learning `AWS` and looking forward to get `AWS Developer Associate` certification 
 - 💬 People ask me about `MEAN Stack, DevOps, Mobile development, Backend engineering, Inovations, Linux, Ect..`
-- 📫 How to reach me: either using my email: **naaija.zakaria@insat.u-carthage.tn** or through my website: **naaijazakaria.com**
+- 📫 How to reach me: either using my email: **naaija.zakaria@insat.u-carthage.tn** or through my website: https://naaijazakaria.com
 
 ![Zakaria's github stats](https://github-readme-stats.vercel.app/api?username=ZakariaNaaija&show_icons=true&hide_border=true)
